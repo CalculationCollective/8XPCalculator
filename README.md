@@ -1,9 +1,5 @@
 # 8XPCalculator
  
-- [8XPCalculator](#8xpcalculator)
-    - [Installing TiConnect](#installing-ticonnect)
-    - [Execute the calculator](#execute-the-calculator)
-
 ## Installing TiConnect
 To run a `.8xp` file you need to [download](https://education.ti.com/en/products/computer-software/ti-connect-sw) TiConnect.
 
